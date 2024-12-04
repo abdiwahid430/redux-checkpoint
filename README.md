@@ -1,1 +1,1 @@
-# redux-checkpoint
+http://localhost:3000/
